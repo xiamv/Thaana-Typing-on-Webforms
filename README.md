@@ -3,7 +3,7 @@ Use the JavaScript to convert English alphabet to Unicode Thaana.
 
 Typing Unicode Thaana on webforms
 ---------------------------------
-
+<!--
 <script>
 // used to convert english alphabet to unicode thaana
 function toThaana() {
@@ -34,6 +34,6 @@ function toThaana() {
 --------------------------------------------------------------
 
 <input type="textbox" id="typedText" onkeypress="toThaana();" />
-
+-->
 --------------------------------------------------------------
 Original implementation at: www.nclhr.com/index.php
