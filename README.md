@@ -38,3 +38,4 @@ function toThaana()
 
 --------------------------------------------------------------
 Original implementation at: www.nclhr.com/index.php
+	The domain no longer is with NCLHR.
